@@ -8,10 +8,7 @@
 </head>
 <body>
     <h1>Contact</h1>
-    <ul>
-        <li><a href="index.php">Home</a></li>
-        <li><a href="about.php">About</a></li>
-        <li><a href="contact.php">Contact</a></li>
-    </ul>
+    <?php include_once('includes/nav.php'); ?>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iste facere accusamus accusantium facilis quis, magni quod ipsa corrupti a fugit autem hic mollitia! Aliquid placeat earum est totam quis quia.</p>
 </body>
 </html>
