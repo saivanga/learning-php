@@ -8,7 +8,9 @@
 </head>
 <body>
     <h1>Welcome</h1>
-    <?php include_once('includes/nav.php'); ?>
+    <?php include('includes/nav.php'); ?>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos dignissimos officia, unde at commodi deserunt maxime ullam quisquam culpa qui voluptatibus sunt inventore odio quia et similique nostrum! Voluptates, libero.</p>
+    <?php include('includes/nav.php'); ?>
+
 </body>
 </html>
